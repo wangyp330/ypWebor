@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ypWebor_Tests' do
+  pod 'ypWebor', :path => '../'
+  
+  
+end

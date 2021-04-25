@@ -1,0 +1,6 @@
+framework module ypWebor {
+  umbrella header "ypWebor-umbrella.h"
+
+  export *
+  module * { export * }
+}

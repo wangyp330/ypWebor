@@ -1,0 +1,16 @@
+PODS:
+  - ypWebor (0.1.0)
+
+DEPENDENCIES:
+  - ypWebor (from `../`)
+
+EXTERNAL SOURCES:
+  ypWebor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ypWebor: e3600bd2e9169f345125c5ff23f5b103441b48cc
+
+PODFILE CHECKSUM: b48d5adca82665cce418c24874908542a2ee03d2
+
+COCOAPODS: 1.10.1
